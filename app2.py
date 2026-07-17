@@ -4,7 +4,7 @@ import joblib
 
 
 def load_model():
-    return joblib.load("placement_model.joblib")
+    return joblib.load("Models/placement_model.joblib")
 
 model_data = load_model()
 
