@@ -46,5 +46,5 @@ Build a robust ML model to predict student placement (Yes/No) based on academic 
 
 ## LIVE Demo ON STREAMLIT CLOUD
 - **Live App**: 
-
-![Streamlit Demo](images/streamlit_screenshot.png)
+Link - (https://ml-prediction-garvil.streamlit.app)
+![Streamlit Demo](Images/app2_ss.png)
