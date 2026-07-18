@@ -144,7 +144,7 @@ if st.button("🔮 Predict Placement", type="primary"):
     for role in roles[:5]: 
         st.write(f"• {role}")
 
-    st.info("*These recommendations are based on your input skills. Focus on improving weaker areas for better opportunities.*")
+    st.info("*Focus on improving weaker areas for better opportunities. All the Best!*")
 
 
 st.sidebar.title("About")
